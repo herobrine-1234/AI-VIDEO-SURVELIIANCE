@@ -1,0 +1,4 @@
+body{background-size:cover;} 
+.heading_div{width:100%;color:blueviolet;box-shadow:15px 15px 20px crimson ;font-size: 40px;margin-top:0px ;font-family: 'Hanalei Fill', cursive;} 
+.footer{bottom:0px ;font-size:20px ;text-align:center;background-color:whitesmoke ;position:fixed ;width:100%}
+canvas{border: 3px solid goldenrod;margin-top: 55px;}
